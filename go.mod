@@ -1,1 +1,1 @@
-module testmodule
+module github.com/obamamen/testmodule
